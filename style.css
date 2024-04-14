@@ -1,3 +1,9 @@
+:root {
+  --main-color: #06c; /* Set your desired color here */
+}
+#foo {
+  color: var(--main-color);
+}
 .content{
   padding: 4% 20%;
 
